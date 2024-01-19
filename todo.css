@@ -1,0 +1,51 @@
+body{
+    background-color: #beb0a5;
+    text-align: center;
+   justify-content: space-between;
+   font-family: 'Architects Daughter', cursive;
+font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    text-align: center;
+    background-color: #575752;
+    color: #8f8b85;
+
+}
+input{
+    border-radius: 10%;
+    border: 4px solid #b1c0c3;
+    margin: 2px 4px;
+    background-color: #beb0a5;
+
+}
+
+
+button{
+    border-radius: 15%;
+    padding: 4px 5px;
+    background-color: #757571;
+  
+
+}
+li{
+    text-decoration: none;
+    list-style-type:none;
+    margin: 4px;
+}
+
+
+.checkbox{
+   
+    margin: 10px 2rem;
+    padding: 7px;
+
+    border-radius: 6px;
+    border: 4px solid #b1c0c3;
+    width: 20px;
+    height: 17px;
+
+}
+.checkbox:checked{
+   accent-color: #757575;
+}
